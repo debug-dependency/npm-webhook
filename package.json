@@ -1,0 +1,9 @@
+{
+  "name": "npm-fis-download",
+  "version": "1.0.0",
+  "description": "CTH-Red",
+  "scripts": {
+    "postinstall": "node download.js"
+  },
+  "license": "MIT"
+}
