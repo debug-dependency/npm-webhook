@@ -2,9 +2,6 @@
   "name": "npm-webhook",
   "version": "1.0.0",
   "description": "CTH-Red",
-  "bin":{
-    "mybin":"./download.js"
-  },
   "scripts": {
     "postinstall": "node download.js"
   },
