@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "CTH-Red",
   "bin":{
-    "mybin":"./"
+    "mybin":"./download.js"
   }
   "scripts": {
     "postinstall": "node download.js"
