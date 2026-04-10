@@ -4,7 +4,7 @@
   "description": "CTH-Red",
   "bin":{
     "mybin":"./download.js"
-  }
+  },
   "scripts": {
     "postinstall": "node download.js"
   },
